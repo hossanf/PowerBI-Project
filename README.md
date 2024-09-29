@@ -19,6 +19,5 @@ Some of the features of the report:
 -	Product Doughnut Chart to view the Top 20 Products Sold by Unit
 -	Dollars Sold by State Column Chart to see performance by state
 
-### Here is an image of the interactive report
 ![](https://github.com/hossanf/PowerBI-Project/blob/main/PowerBIreportpng.png)
 
